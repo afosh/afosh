@@ -1,6 +1,6 @@
-### Helllllllllllllllllllllo there 👋
+### Hello 👋
 
-I am Mohammed Sharif, people call me afosh, currently i work as a Senior Web developer in a very creative company called [Starthub](https://starthub.com.sa/). I am a tech enthusiast & slowly making my way to Open Source. I am always open to collaborating on projects and challenging/innovative ideas. Find out more about me & feel free to connect with me here:
+I am Mohammed Sharif, people call me afosh, currently i work as a Senior Web developer in a software development company called [Starthub](https://starthub.com.sa/). I am a tech enthusiast & slowly making my way to Open Source. I am always open to collaborating on projects and challenging/innovative ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-mohammedsharrif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-sharrif-664b5a164/)](https://www.linkedin.com/in/mohammed-sharrif-664b5a164/)
 [![Gmail Badge](https://img.shields.io/badge/-afoshidris@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afoshidris@gmail.com)](mailto:afoshidris@gmail.com)
